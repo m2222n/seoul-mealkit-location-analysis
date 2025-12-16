@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (large)
+*.zip
+*.tar.gz
+
+# Selenium
+chromedriver
+chromedriver.exe
+
+# Output (optional - uncomment if you don't want to track outputs)
+# output/
+
+# Reference notebooks (keep but don't track changes)
+# notebooks/ref_*.ipynb
